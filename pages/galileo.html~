@@ -1,0 +1,188 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+	<head>
+        	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        	<title>Galileo</title>
+        	<link rel="icon" type="image/ico" href="../images/galileo.ico">
+		<link rel="stylesheet" type="text/css" href="../styles/normalize.css">
+        	<link rel="stylesheet" type="text/css" href="../styles/ThreeColumns.css">
+	</head>
+    	<body>
+    		<section id="page"> <!-- Defining the #page section with the section tag -->
+            		<header> <!-- Defining the header section of the page with the appropriate tag -->
+                		<hgroup>
+					<h1>Galileo</h1>
+					<h3>the father of modern science</h3>
+				</hgroup>
+                		<nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
+                			<ul>
+                				<li><a href="../homepage.html">back to homepage</a></li>
+					</ul>
+                		</nav>
+			</header>
+			<section> <!-- A new section with the article -->
+				<div class="line"></div>  <!-- Dividing line -->
+				<article> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+					<div class="articleBody clear">
+						<p>Galileo Galilei lived in Italy during the Renaissance. He was born on 15 February 1564 in 
+						the city of Pisa, Italy, and he died on 8 January 1642 in the city of Arcetri, Italy. He was a 
+						famous physicist and astronomer.
+						</p>
+						<p>As a physicist, he worked with force and acceleration, and pioneered the scientific method. 
+						The scientific method is the foundation of modern science. Using the scientific method, 
+						scientific knowledge are obtained by experimentation and observation. As an astronomer, he 
+						invented the telescope, and used it to discover many astronomical bodies, including moons of 
+						Jupiter.
+						</p>
+						<p>
+						To see more information about Galileo, click the picture below.
+						</p>
+						<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+							<a href=https://en.wikipedia.org/wiki/Galileo_Galilei>							
+							<img src="../images/galileo.jpg" width="230" height="230"></a>
+                        			</figure>	 
+						<h4>source: <a href=http://www.doxologists.org/galileo-galilei/>link</a></h4>		
+						<br><br>						
+						<p>
+						Galileo used his inclined plane experiment to obtain the 
+						constant acceleration of objects in free fall. 
+						</p>
+						<p>
+						Because the speeds of falling objects were too fast to be measured in Galileo's days, he rolled 
+						balls down inclined planes and recorded the relation between the distances the balls traveled 
+						and the times the balls took. After many experimental trials, he found that, for a ball 
+						traveling down an inclined plane, doubling the time it travels results in four times the distance 
+						it travels. Objects in free fall accelerate at a constant rate. This rate is the constant g, having a value of about 9.8 m/s<sup>2</sup>.
+						</p>
+						<p>
+						To see more about Galileo's inclined plane experiment, click the picture below.
+						</p>
+						<figure>
+	                    				<a href=https://www.youtube.com/watch?v=7HUj7obvKpA>
+							<img src="../images/galileo2.jpg" width="230" height="230"></a>
+                        			</figure>	
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br>						
+						<h4>source: <a href=https://einstein.stanford.edu/SPACETIME/spacetime3.html>link</a></h4>				
+						<br><br>				
+						<p>
+						Galileo used his leaning tower of Pisa experiment to 
+						demonstrate that heavier objects do not necessarily fall faster than lighter objects.
+						</p>
+						<p>
+						The ancient Greek philosopher Aristotle theorized that the heavier an object is, the faster
+						it falls, and vice versa. For millenia, this was believed to be true. In 1589, Galileo did an 
+						experiment to test Aristotle's theory by dropping two balls from the top of the leaning tower 
+						of Pisa. The two balls had the same shape and material, except one was heavier and the 
+						other was lighter. Galileo dropped both balls at the same time, and both balls landed 
+						on the ground at the same time. He demonstrated that the speed at which an object 
+						falls is not related to its weight.
+						</p>
+						<p>
+						To see more about Galileo's leaning tower of Pisa experiment, click the picture below.
+						</p>
+						<br><br><br><br><br><br><br><br><br>
+						<figure>
+	                    				<a href=https://www.youtube.com/watch?v=7Iew2_RqjOw>
+							<img src="../images/galileo3.jpg" width="230" height="230"></a>
+                        			</figure>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>			
+						<h4>source: <a href=http://thushahganeshraj.wixsite.com/galileogalilei/leaning-tower-of-pisa-experiment>link</a></h4>
+						<br><br><br>					
+						<p>
+						As an astronomer, Galileo invented the telescope. He used it to make remarkable astronomical 
+						discoveries.
+						</p>
+						<p>
+						In 1608, the spyglass, which magnifies an object by a few times, appeared in Europe. Galileo's telescope, 
+						invented in 1610, consists of a hollow cylinder with a spyglass at both ends, one convex and the other concave. Galileo's telescope 
+						can magnify a distant object by 30 times.
+						</p>
+						<p>
+						Using his telescope, Galileo observed that the Moon has a rough surface rather than a 
+						smooth surface that people once believed, and he discovered the four largest moons of 
+						Jupiter that are now known as the Galilean moons. His observations of the phases of Venus provided evidence for the 
+						heliocentric theory proposed by Nicolaus Copernicus in 1543.
+						</p>
+						<p>
+						To read more about Galileo's telescope and his work in astronomy, click the picture below.
+						</p>
+						<figure>
+	                    				<a href=https://www.universetoday.com/15763/galileos-telescope/>
+							<img src="../images/galileo4.jpg" width="230" height="230"></a>
+                        			</figure>					
+						<h4>source: <a href=https://www.universetoday.com/15763/galileos-telescope/>link</a></h4>					
+					</div>
+				</article>
+				<aside>								
+					<h2>the<br>Galilean<br>moons</h2>
+					<br>
+					<br>
+					<br>			
+					<img src="../images/io.jpg">
+					<br>
+					<br>						
+					<h4><a href=https://en.wikipedia.org/wiki/Io_(moon)>Io</a></h4>									
+					<br>
+					<br>
+					<img src="../images/europa.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Europa_(moon)>Europa</a></h4>	
+					<br>
+					<br>
+					<img src="../images/ganymede.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Ganymede_(moon)>Ganymede</a></h4>
+					<br>
+					<br>
+					<img src="../images/callisto.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Callisto_(moon)>Callisto</a></h4>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<h2>Renaissance</h2>
+					<br>
+					<img src="../images/renaissance.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Renaissance>link</a></h4>	
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<h2>Nicolaus Copernicus</h2>
+					<br>
+					<img src="../images/copernicus.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Nicolaus_Copernicus>link</a></h4>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<h2>the<br>heliocentric theory</h2>
+					<br>					
+					<img src="../images/heliocentric.jpg">
+					<br>
+					<br>
+					<h4><a href=https://en.wikipedia.org/wiki/Copernican_heliocentrism>link</a></h4>					
+				</aside>	
+			</section>
+			<footer> <!-- Marking the footer section -->
+				<p>&copy; 2018 - Gongzi Muchang</p>
+				<a href="mailto:muchang19910620@gmail.com">send email</a>				
+				<a href="https://www.dkfindout.com/us/science/famous-scientists/">my favorite website</a>
+			</footer>
+		</section> <!-- Closing the #page section -->
+	</body>
+</html>

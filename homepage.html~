@@ -1,0 +1,135 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+	<head>
+        	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        	<title>Four Famous Scientists</title>
+        	<link rel="icon" type="image/ico" href="images/scientists.ico">
+		<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+        	<link rel="stylesheet" type="text/css" href="styles/OneColumn.css">
+	</head>
+    	<body>        	
+		<section id="page"> <!-- Defining the #page section with the section tag -->				
+			<header> <!-- Defining the header section of the page with the appropriate tag -->
+                		<hgroup>
+					<h1>Four Famous Scientists</h1>
+					<h3>from ancient to modern</h3>
+				</hgroup>
+				<nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
+                			<ul>
+                				<li><a href="#article1">Eratosthenes</a></li>
+                        			<li><a href="#article2">Galileo</a></li>
+                        			<li><a href="#article3">Newton</a></li>
+						<li><a href="#article4">Planck</a></li>
+					</ul>
+                		</nav>
+			</header>
+			<section> <!-- A new section with the articles -->
+				<!-- Article 1 start -->
+				<div class="line"></div>  <!-- Dividing line -->
+				<article id="article1"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+					<h2>Eratosthenes<a class="go_up" href="#" class="up">&nbsp; &nbsp;&uparrow;</a></h2>
+					<br><br><br>
+					<div class="articleBody clear">
+						<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+	                    				<a href="pages/eratosthenes.html">
+							<img src="images/eratosthenes.jpg" width="500" height="500"></a>
+                        			</figure>
+						<p>Erastothenes is the oldest of these four famous scientists. He lived in ancient Greece. 
+						He was a mathematician, an astronomer, and a geographer.</p>
+						<p>Erastothenes is best known for being the first person to measure the circumference of the 
+						Earth. He was the chief librarian at the Library of Alexandria. He was the father of chronology,
+						which is the science of finding out how old are things from long ago. As a mathematician,
+						he primarily worked with prime numbers. He was the father of geography, which is the science that 
+						studies the Earth.</p>
+						<p class="pbold">Click on the image for more information</p>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+						<h4>source: <a href=https://www.thefamouspeople.com/profiles/eratosthenes-6505.php>link</a></h4>
+						
+                    			</div>
+                		</article>
+				<!-- Article 1 end -->
+				<!-- Article 2 start -->
+				<div class="line"></div>
+				<article id="article2">
+                    			<h2>Galileo<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+					<br><br><br>
+					<div class="articleBody clear">
+                    				<figure>
+	                    				<a href="pages/galileo.html">
+							<img src="images/galileo.jpg" width="500" height="500" /></a>
+                        			</figure>
+						<p>Galileo is the second oldest of these four famousscientists. He lived in Italy in the 
+						16th and 17th centuries during the Renaissance era. He was a physicist and an astronomer.</p>
+                        			<p>Galileo is best known for being the father of modern science, which is centered around the 
+						scientific method. The scientific method is the foundation of modern science. Using the 
+						scientific method, scientific knowledge are obtained by experimentation and observation. 
+						As a physicist, he worked with force and acceleration. A famous experiment that he did was 
+						dropping two balls, one lighter and one heavier, from the top of the leaning tower of Pisa 
+						and proving that heavier things do not fall faster than lighter things. As an astronomer, 
+						he invented the telescope. He used it to observe the phases of Venus and the moons of Jupiter 
+						to provide evidence for the heliocentric theory.</p>
+						<p class="pbold">Click on the image for more information</p>
+						<br><br><br><br><br><br><br><br><br><br><br><br>				
+						<h4>source: <a href=http://www.doxologists.org/galileo-galilei/>link</a></h4>
+                   		 	</div>
+                		</article>
+				<!-- Article 2 end -->
+				<!-- Article 3 start -->
+				<div class="line"></div>
+				<article id="article3">
+                    			<h2>Newton<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+					<br><br><br>
+					<div class="articleBody clear">
+                    				<figure>
+	                    				<a href="pages/newton.html">
+							<img src="images/newton.jpg" width="500" height="500" /></a>
+                        			</figure>
+						<p>Newton is the third oldest of these four famous scientists. He lived in England in the 17th 
+						and 18th centuries during the Enlightenment era. He was a mathematician and a physicist.</p>
+                        			<p>As a physicist, he is best known for his work with force and acceleration. His three laws of 
+						motion and his law of universal gravitation form the foundation of classical mechanics, which 
+						helped explain how celestial bodies moved around each other in space. As a mathematician, he 
+						pioneered calculus, which is the mathematical study of continuous change. Calculus enables 
+						precise modeling of physical phenomena, and it is today an indispensable tool in science and 
+						engineering with wide applications in our daily lives.
+						</p>
+						<p class="pbold">Click on the image for more information</p>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>						
+						<h4>source: <a href=http://www.openculture.com/2015/03/isaac-newton-creates-a-list-of-his-47-sins-circa-1662.html>link</a></h4>
+                    			</div>
+                		</article>
+				<!-- Article 3 end -->
+				<!-- Article 4 start -->
+				<div class="line"></div>
+				<article id="article4">
+                    			<h2>Planck<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+					<br><br><br>
+					<div class="articleBody clear">
+                    				<figure>
+	                    				<a href="pages/planck.html">
+							<img src="images/planck.jpg" width="500" height="500" /></a>
+                        			</figure>
+						<p>Planck is the most recent of these four scientists. He lived in Germany in the 19th and 20th 
+						centuries. He was a physicist who won the Nobel prize in physics in 1918.</p>
+                        			<p>As a theoretical physicist, Planck is best known for pioneering quantum physics, which is the 
+						theoretical basis of modern physics that explains the nature and behavior of matter and energy 
+						on the atomic and subatomic level. He is also known for obtaining the Planck constant h, 
+						Planck's law, the Planck units, and the Planck-Einstein relation E = hv. This equation, which 
+						he obtained together with Albert Einstein, who was another great scientist from Germany, plays 
+						an integral role in quantum mechanics. 
+						</p>
+						<p class="pbold">Click on the image for more information</p>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>						
+						<h4>source: <a href=https://www.sciencenews.org/article/max-planck-originator-quantum-theory-tormented-war-and-personal-loss>link</a></h4>
+                    			</div>
+               			 </article>
+				<!-- Article 4 end -->
+			</section>			
+			<footer> <!-- Marking the footer section -->
+				<p>&copy; 2018 - Gongzi Muchang</p>
+				<a href="mailto:muchang19910620@gmail.com">send email</a>				
+				<a href="https://www.dkfindout.com/us/science/famous-scientists/">my favorite website</a>
+			</footer>
+		</section> <!-- Closing the #page section -->
+	</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+	<head>
+        	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        	<title>Newton</title>
+        	<link rel="icon" type="image/ico" href="../images/newton.ico">
+		<link rel="stylesheet" type="text/css" href="../styles/normalize.css">
+        	<link rel="stylesheet" type="text/css" href="../styles/TwoColumns.css">
+	</head>
+    	<body>
+    		<section id="page"> <!-- Defining the #page section with the section tag -->
+            		<header> <!-- Defining the header section of the page with the appropriate tag -->
+                		<hgroup>
+					<h1>Newton</h1>
+					<h3>the man who discovered gravity</h3>
+				</hgroup>
+                		<nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
+                			<ul>
+                				<li><a href="../homepage.html">back to homepage</a></li>
+					</ul>
+                		</nav>
+			</header>
+			<section> <!-- A new section with the article -->
+				<div class="line"></div>  <!-- Dividing line -->
+				<article> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+					<div class="articleBody clear">
+						<p>Isaac Newton lived in England during the Enlightenment. He was born on 25 December 1642 
+						in Woolsthorpe Manor, and died on 20 March 1727 in London. He was a famous, physicist,
+						mathematician and astronomer.
+						</p>
+						<p>As a physicist, he worked with force and acceleration, discovered gravity, and discovered
+						properties of visible light. As a mathematician, he formulated calculus, which is the branch of 
+						mathematics that solves problems that involve continuous change. As an astronomer, he invented
+						the reflecting telescope and studied comets.
+						</p> 
+						<p>
+						To see more information about Newton, click the picture below.
+						</p>
+						<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+							<a href=https://en.wikipedia.org/wiki/Isaac_Newton>							
+							<img src="../images/newton.jpg" width="280" height="280"></a>
+                        			</figure>		
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>						
+						<h4>source: <a href=http://www.openculture.com/2015/03/isaac-newton-creates-a-list-of-his-47-sins-circa-1662.html>link</a></h4>
+						<br><br><br>					
+						<p>As a physicist, Newton discovered what are now known as Newton's laws of motion. The first law says 
+						that an object has inertia, and it remains at rest or moves at a constant speed straight ahead unless 
+						a force acts on it. The second law says that an object has momentum, and the heavier it is, the faster 
+						it accelerates when a force acts on it, and vice versa. The third law says that that an object reacts to 
+						a force that is acting on it by generating an equally strong force in the opposite direction. 
+						An example of the third law is when a rocket fires, the rocket pushes against the launch pad, which in turn pushes 
+						at the rocket. Newton discovered gravity, which is the force that attracts objects to each other and keeps 
+						ligher celestial bodies revolving around heavier ones, such as the moon around the Earth and the Earth 
+						around the Sun. Legend has it that Newton discovered gravity when he was sitting under a tree and an 
+						apple fell on his head! Using a prism Newton split light into a rainbow, and discovered that white 
+						light is made up of the colors of the rainbow.
+						</p>
+						<p>
+						To see more about how Newton discovered gravity, click the picture below.
+						</p>
+						<figure>
+	                    				<a href=https://www.youtube.com/watch?v=D5BQkdyAw8A>
+							<img src="../images/newton2.jpg" width="280" height="280" /></a>
+                        			</figure>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>					
+						<h4>source: <a href=https://www.thenewsgeeks.com/unknown-facts-sir-isaac-newton/>link</a></h4>
+						<br><br><br><br>
+						<p>
+						As a mathematician, Newton formulated calculus in his book Philosophiæ Naturalis Principia Mathematica published in 1687. Calculus is the branch 
+						of mathematics that solves problems that involve continuous change, and is today an indispensable part of science and engineering. Newton's work 
+						in calculus begun when he tried to find the slope at any given point on a curve. To do so, he calculated the derivative, which he referred to as 
+						the “method of fluxions” rather than differentiation. "Fluxion" is the term he used to refer to the instantaneous rate of change at any given point 
+						on the curve, and "fluents" is the term he used to refer to the changing values of x and y. The opposite of differentiation is integration, which 
+						he refered to as the “method of fluents”. Combining differentiation and integration, Newton formulated the First Fundamental Theorem of Calculus, 
+						which says that if a function is integrated and then differentiated, then the original function can be obtained because differentiation and 
+						integration are inverse functions. 						
+						</p>
+						<p>
+						To see more about Newton's formulation of calculus, click the picture below.
+						</p>
+						<figure>
+	                    				<a href=https://www.youtube.com/watch?v=84RfobJgzZQ>
+							<img src="../images/newton3.jpg" width="280" height="280" /></a>
+                        			</figure>
+						<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
+						<h4>source: <a href=http://www.eoht.info/page/Newton>link</a></h4>			                 			
+					</div>
+                		</article>
+			</section>
+			<footer> <!-- Marking the footer section -->
+				<p>&copy; 2018 - Gongzi Muchang</p>
+				<a href="mailto:muchang19910620@gmail.com">send email</a>				
+				<a href="https://www.dkfindout.com/us/science/famous-scientists/">my favorite website</a>
+			</footer>
+		</section> <!-- Closing the #page section -->
+	</body>
+</html>
